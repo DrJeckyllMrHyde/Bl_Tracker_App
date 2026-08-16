@@ -1,0 +1,7 @@
+BL Tracker v4 final
+- Filtres limites a deux choix : Pays + Nom des acteurs
+- Liste deroulante des pays deja saisis
+- Liste deroulante des acteurs deja saisis
+- Bouton explicite pour supprimer un personnage / acteur selectionne en cas d'erreur
+- Confirmation avant suppression d'un personnage / acteur
+- Conservation des ameliorations v3 : miniature photo, modification des acteurs, liste des series, boutons colores, import URL
