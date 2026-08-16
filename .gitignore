@@ -1,0 +1,22 @@
+# Données personnelles et médias téléchargés
+data/*.db
+data/images/*
+!data/images/.gitkeep
+
+# Environnements et caches Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Sorties PyInstaller
+build/
+dist/
+release/
+*.spec
+
+# Fichiers système et éditeurs
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
