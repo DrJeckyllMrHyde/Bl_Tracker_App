@@ -5,12 +5,14 @@ Application Windows simple et locale pour suivre ses séries BL asiatiques,
 
 ## L'histoire du projet
 
-BL Tracker est né d'une collaboration entre **DrJeckyllMrHyde** et
-**ChatGPT / Codex d'OpenAI**. Le logiciel a d'abord été imaginé et créé pour
-la compagne de DrJeckyllMrHyde, afin de lui offrir un outil personnel, clair
+BL Tracker est né d'une collaboration entre moi et
+ChatGPT / Codex d'OpenAI.
+
+Le logiciel a d'abord été imaginé et créé pour
+ma compagne, afin de lui offrir un outil personnel, clair
 et pratique pour organiser les séries qu'elle regarde.
 
-Après l'avoir utilisé et amélioré ensemble, DrJeckyllMrHyde a choisi de rendre
+Après l'avoir utilisé et amélioré ensemble, j'ai choisi de rendre
 le projet public afin qu'il puisse aussi aider la communauté des fans de BL.
 Chacun peut désormais l'utiliser, l'adapter et contribuer à son évolution.
 
